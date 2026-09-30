@@ -33,9 +33,6 @@ exploring intelligent systems.
 I enjoy turning ideas into practical software through clean code,
 problem solving, and continuous learning.
 
-- 🎓 B.Sc. in Computer Science & Engineering
-- 🏫 Southeast University
-- 📊 CGPA: **3.93 / 4.00**
 - 💻 Focused on **Full-Stack Web Development**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 👁️ Interested in **Computer Vision & Image Processing**
