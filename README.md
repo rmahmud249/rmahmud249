@@ -196,42 +196,6 @@ Exploring image processing and computer vision techniques for understanding, tra
 
 ---
 
-### 💻 More Projects
-
-I'm continuously experimenting with new ideas and building projects to improve my engineering and problem-solving skills.
-
-> 🚧 More projects will be added here as they evolve.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
 # 🧠 Currently Learning
 
 ```text
@@ -264,59 +228,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME
 
 ---
 
-# 💡 My Development Philosophy
 
-<div align="center">
-
-### **Learn → Build → Experiment → Improve → Repeat**
-
-</div>
-
-I believe the best way to learn technology is to **build real things**.
-
-Instead of only studying concepts theoretically, I try to turn what I learn into practical projects, experiments, and research ideas.
-
-> **"Build something useful. Learn from what breaks. Keep improving."**
-
----
-
-# 📈 My Developer Journey
-
-```text
-             ┌──────────────────────┐
-             │      CSE Student     │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │   Web Development    │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │  Full-Stack Skills   │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │    AI / Machine      │
-             │      Learning        │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │ Computer Vision &    │
-             │ Intelligent Systems  │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │ Research & Advanced  │
-             │     Development      │
-             └──────────────────────┘
-```
-
----
 
 # 🌱 Beyond Coding
 
