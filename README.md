@@ -111,56 +111,64 @@ from both application and architectural perspectives.
 </table>
 
 ---
-
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<table>
+  <tr>
+    <td align="center" width="180">
+      <b>💻 Languages</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+    </td>
+  </tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
-</p>
+  <tr>
+    <td align="center">
+      <b>🌐 Frontend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+    </td>
+  </tr>
 
-### 🌐 Frontend
+  <tr>
+    <td align="center">
+      <b>⚙️ Backend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+    </td>
+  </tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
-</p>
+  <tr>
+    <td align="center">
+      <b>🗄️ Database</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+    </td>
+  </tr>
 
-### ⚙️ Backend
+  <tr>
+    <td align="center">
+      <b>🤖 AI / ML</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas" />
+    </td>
+  </tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+  <tr>
+    <td align="center">
+      <b>🛠️ Tools & Platforms</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,jupyter,postman" />
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
-</p>
-
-### 🤖 AI / ML / Data Science
-
-<p>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,jupyter" />
-</p>
-
----
 
 # 🚀 Featured Project
 
