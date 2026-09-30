@@ -195,35 +195,6 @@ technologies and Supabase.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=raselmahmud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=raselmahmud&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=raselmahmud&theme=tokyo-night&hide_border=true"
-  width="95%"
-/>
-
-</div>
-
----
-
 # 🧠 Areas of Interest
 
 ```text
