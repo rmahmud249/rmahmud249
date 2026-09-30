@@ -196,54 +196,6 @@ Exploring image processing and computer vision techniques for understanding, tra
 
 ---
 
-# 🧠 Currently Learning
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🤖 Machine Learning & Deep Learning                │
-│  👁️ Computer Vision                                 │
-│  🕸️ Graph Neural Networks                           │
-│  🔐 Cybersecurity & Intrusion Detection             │
-│  🌐 Advanced Full-Stack Development                 │
-│  ☁️ Cloud & Deployment                              │
-│  🐳 Docker & DevOps                                 │
-│  🔬 Research & Technical Writing                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-# 🎯 Goals
-
-* 🚀 Build production-quality software
-* 🤖 Develop practical AI-powered applications
-* 🔬 Contribute to meaningful research
-* 🌐 Improve full-stack development skills
-* 🧠 Strengthen problem-solving abilities
-* 🔐 Explore intelligent cybersecurity solutions
-* 🌍 Contribute to open-source projects
-* 📚 Keep learning emerging technologies
-
----
-
-
-
-# 🌱 Beyond Coding
-
-When I'm not coding, I enjoy:
-
-* 📚 Learning new technologies
-* 🔬 Exploring research topics
-* 🎨 Exploring UI/UX design
-* 🧩 Solving technical problems
-* 💡 Brainstorming project ideas
-* 🌍 Exploring the technology ecosystem
-* ☕ Drinking coffee while debugging
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in connecting with developers, researchers, students, and technology enthusiasts.
