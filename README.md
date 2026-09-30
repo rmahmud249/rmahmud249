@@ -72,8 +72,7 @@ I enjoy transforming ideas into clean, functional, and user-friendly application
 
 I'm particularly interested in combining modern web technologies with intelligent systems to create useful real-world solutions.
 
-### 🚀 Currently Focused On
-
+```text
 * 🌐 Full-Stack Web Development
 * 🤖 Artificial Intelligence & Machine Learning
 * 👁️ Computer Vision & Image Processing
@@ -82,26 +81,6 @@ I'm particularly interested in combining modern web technologies with intelligen
 * 🔐 Cybersecurity & Intrusion Detection
 * 📚 Research & Technical Learning
 * 💡 Building practical projects
-
-</td>
-
-<td width="40%" valign="top">
-
-### ⚡ Quick Facts
-
-```text
-🎓 CSE Student
-💻 Full-Stack Developer
-🤖 AI/ML Enthusiast
-👁️ Computer Vision
-🌐 Web Development
-🧠 Problem Solver
-🔐 Cybersecurity Explorer
-📊 Data Enthusiast
-🔬 Research-Oriented
-🌱 Lifelong Learner
-☕ Coffee + Code
-🚀 Build • Learn • Repeat
 ```
 
 </td>
